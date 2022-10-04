@@ -1,0 +1,15 @@
+D:\C#\Exapmle002\bin\Debug\net6.0\Exapmle002.exe
+D:\C#\Exapmle002\bin\Debug\net6.0\Exapmle002.deps.json
+D:\C#\Exapmle002\bin\Debug\net6.0\Exapmle002.runtimeconfig.json
+D:\C#\Exapmle002\bin\Debug\net6.0\Exapmle002.dll
+D:\C#\Exapmle002\bin\Debug\net6.0\Exapmle002.pdb
+D:\C#\Exapmle002\obj\Debug\net6.0\Exapmle002.csproj.AssemblyReference.cache
+D:\C#\Exapmle002\obj\Debug\net6.0\Exapmle002.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exapmle002\obj\Debug\net6.0\Exapmle002.AssemblyInfoInputs.cache
+D:\C#\Exapmle002\obj\Debug\net6.0\Exapmle002.AssemblyInfo.cs
+D:\C#\Exapmle002\obj\Debug\net6.0\Exapmle002.csproj.CoreCompileInputs.cache
+D:\C#\Exapmle002\obj\Debug\net6.0\Exapmle002.dll
+D:\C#\Exapmle002\obj\Debug\net6.0\refint\Exapmle002.dll
+D:\C#\Exapmle002\obj\Debug\net6.0\Exapmle002.pdb
+D:\C#\Exapmle002\obj\Debug\net6.0\Exapmle002.genruntimeconfig.cache
+D:\C#\Exapmle002\obj\Debug\net6.0\ref\Exapmle002.dll
